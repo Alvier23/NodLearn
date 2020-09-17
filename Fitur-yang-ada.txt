@@ -1,0 +1,14 @@
+Fitur Fitur yang terdapat di E-Learning berbasis web NOD Learning
+*GURU/DOSEN/MENTOR*
+-pendaftaran
+-login
+-pembuatan kelas
+-upload materi
+-upload tugas
+-penilaian tugas
+
+*MURID/MAHASISWA*
+-pendaftaran
+-login
+-gabung kelas
+-upload hasil tugas

@@ -1,4 +1,5 @@
 Fitur Fitur yang terdapat di E-Learning berbasis web NOD Learning
+
 *GURU/DOSEN/MENTOR*
 -pendaftaran
 -login
@@ -12,3 +13,13 @@ Fitur Fitur yang terdapat di E-Learning berbasis web NOD Learning
 -login
 -gabung kelas
 -upload hasil tugas
+
+*UI/UX Desain*
+-Landing Page Custom (full css/js)
+-Template AdminLTE (untuk guru/dosen)
+-Custom Template Bootsrap (untuk murid)
+
+*Bahasa Pemprograman*
+-PHP
+-HTML/CSS
+-Javascript

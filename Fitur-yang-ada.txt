@@ -16,8 +16,7 @@ Fitur Fitur yang terdapat di E-Learning berbasis web NOD Learning
 
 *UI/UX Desain*
 -Landing Page Custom (full css/js)
--Template AdminLTE (untuk guru/dosen)
--Custom Template Bootsrap (untuk murid)
+-Template AdminLTE (untuk semuanya)
 
 *Bahasa Pemprograman*
 -PHP

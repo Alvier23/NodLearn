@@ -1,7 +1,6 @@
 javascript
++ ES6
 php
++ Codeiginiter
 html
 css
-codeigunter
-node.js
-react js
